@@ -1,7 +1,7 @@
 - 👋 Hi, We are @PeerlessImageLLC
 - 👀 We are interested in working with other developers, desingers and other business owners as well. 
 - 🌱 We are currently a growing company 
-- 💞️ We looking to collaborate with programming devleopment teams that want to help reshape the business world. 
+- 💞️ We looking to collaborate with programming, devleopment, and design teams that want to help reshape the business world. 
 - 📫 How to reach us: solutions@peerlessimage.com
 
 <!---
